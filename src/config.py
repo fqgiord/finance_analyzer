@@ -1,0 +1,4 @@
+RAW_DATA_DIR = "data/raw"
+PROCESSED_DATA_DIR = "data/processed"
+DEFAULT_PERIOD = "1y"
+DEFAULT_INTERVAL = "1d"

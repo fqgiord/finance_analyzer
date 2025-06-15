@@ -1,0 +1,30 @@
+# .gitignore
+
+# Ambiente virtual
+.venv/
+venv/
+env/
+
+# VSCode configs
+.vscode/
+
+# Dados gerados (mantém o projeto leve)
+data/raw/
+data/processed/
+
+# Pytest cache
+.pytest_cache/
+
+# Arquivos compilados Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Logs
+*.log
+
+# Notebooks temporários
+notebooks/.ipynb_checkpoints/
+
+# Configurações do MacOS (caso existam)
+.DS_Store
